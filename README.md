@@ -8,5 +8,5 @@ The concept of a growth mindset it is  Make the mind work properly all the time 
 2. Review the goals allways and take spicefic time to do it . 
 3. Get closer to  person have a growth mindset .
 
-The site was bulit by _[Haneen bader](https://github.com/haneenbader)_
+This web page was bulit by _[Haneen bader](https://github.com/haneenbader)_
  

@@ -10,8 +10,8 @@ Evaluating condition  :
 
 * _Loops_ : check acondition if return true  (code run ) , if return false (repeats)
 
-  - _for Loop counter_ :
+  1-  _for Loop counter_ :
    * using acounter as acondition 
    * code run aspiecified number times (intilization , condition , update)
 
-  - _While loops_ : using it when you don’t know the many of times you want code to run , it shoud continue to run as long as a condition is met. 
+  2-  _While loops_ : using it when you don’t know the many of times you want code to run , it shoud continue to run as long as a condition is met. 
